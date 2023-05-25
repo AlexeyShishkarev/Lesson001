@@ -1,0 +1,15 @@
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/bin/Debug/net6.0/HeapSort
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/bin/Debug/net6.0/HeapSort.deps.json
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/bin/Debug/net6.0/HeapSort.runtimeconfig.json
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/bin/Debug/net6.0/HeapSort.dll
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/bin/Debug/net6.0/HeapSort.pdb
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.csproj.AssemblyReference.cache
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.AssemblyInfoInputs.cache
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.AssemblyInfo.cs
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.csproj.CoreCompileInputs.cache
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.dll
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/refint/HeapSort.dll
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.pdb
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/HeapSort.genruntimeconfig.cache
+/Users/aleksejsiskarev/Desktop/GB/Алгоритмы/Lessons/Lesson002/HeapSort/obj/Debug/net6.0/ref/HeapSort.dll
